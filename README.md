@@ -1,5 +1,5 @@
 # PizzariaApp
-Exemplo para estudo de uma Web API Rest com métodos para inserir pedido de pizza e consultar o resumo do pedido
+Exemplo de uma Web API Rest, para fins didáticos, com métodos para inserir pedido de pizza e consultar o resumo do pedido
 
 
 # API Rest
